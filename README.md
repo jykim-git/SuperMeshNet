@@ -1,3 +1,11 @@
+# SuperMeshNet
+
+This is the official implementation of the ICML 2026 paper:
+
+**Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations**  
+Jiyeon Kim, Youngjoon Hong, and Won-Yong Shin  
+*Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*
+
 ## Data Preparation
 
 We provide three FEM datasets:
