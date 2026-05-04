@@ -8,9 +8,9 @@ We provide three FEM datasets:
 You can either **download the FEM datasets** or **generate them from scratch**.
 
 We also provide three CFD datasets:
-- **Real-world geometry dataset** `data_bike`
-- **Time-dependent PDE dataset1** `data_cylinder`
-- **Time-dependent PDE dataset2** `cfd32.npy` `cfd1024.npy` 
+- **Real-world geometry dataset:** `data_bike`
+- **Time-dependent PDE dataset1:** `data_cylinder`
+- **Time-dependent PDE dataset2:** `cfd32.npy` `cfd1024.npy` 
 
 You can **download the CFD datasets** 
 
